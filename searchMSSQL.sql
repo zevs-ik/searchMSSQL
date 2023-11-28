@@ -1,3 +1,5 @@
+-- Поиск текста всей MS SQL базе
+
 DECLARE @TableName NVARCHAR(256), 
         @ColumnName NVARCHAR(128), 
         @SearchTerm NVARCHAR(100),
